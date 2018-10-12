@@ -1,24 +1,22 @@
 body{
   text-align: center;
+  font-family: Helvetica;
 }
 
 .header{
-  background image: url("./Resources/Images/the-flatiron-building.png");
-  background-size: 1000px;
-  font-size: 70px;
-  font-family: Helvetica;
+  background-image: url("./Resources/Images/the-flatiron-building.png");
   font-weight: bold;
-  color: orange;
   text-align: center;
 }
 
-.links a{
-  color: orange;
+.header h1{
+    font-size: 70px;
+    color: orange;
 }
 
-.links{
+.nav{
+  color: orange;
   font-size: 18px;
-    font-family: Helvetica;
 }
 
 .process{
@@ -38,7 +36,7 @@ p{
   font-size: 14px;
 }
 
-.NYC{
+.header h2{
   font-family: Helvetica;
   color: orange;
   font-size: 23px;

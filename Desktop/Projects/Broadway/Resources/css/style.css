@@ -4,7 +4,7 @@ body{
 }
 
 .header{
-  background-image: url("./Resources/Images/the-flatiron-building.png");
+  background-image: url("../Images/the-flatiron-building.png");
   font-weight: bold;
   text-align: center;
 }
@@ -41,7 +41,7 @@ p{
   color: orange;
   font-size: 23px;
   font-weight: bold;
-  background-image: url("./Resources/Images/the-flatiron-building.png");
+  background-image: url("../Images/the-flatiron-building.png");
 }
 
 .footer{
@@ -49,4 +49,9 @@ p{
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+.navfooter{
+  color: white;
+  font-size: 11px;
 }
